@@ -1,0 +1,14 @@
+[
+    {
+      "conversation": [
+        { "role": "user", "content": "There's a wildfire approaching our town!" }
+      ],
+      "function": "transfer_to_evacuation"
+    },
+    {
+      "conversation": [
+        { "role": "user", "content": "We need more medical supplies at the emergency shelter." }
+      ],
+      "function": "transfer_to_resource"
+    }
+  ]
